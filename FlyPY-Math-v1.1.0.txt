@@ -1,32 +1,18 @@
+// Basis
 不等式	bdui
-并集	bkji
 倍数	bwuu
-代数	dduu
-顶点	dkdm
 定理	dkli
-对角	dvjn
 分母	ffmu
 负数	fuuu
 复数	fuuu
 非负	fwfu
-割线	gexm
 常量	ihll
 常数	ihuu
 除数	iuuu
+代数	dduu
 几何	jihe
 奇数	jiuu
-基数	jiuu
-交集	jnji
-角平分线	jpfx
 阶乘	jpig
-截距	jpju
-截面	jpmm
-加权	jxqr
-流形	lpxk
-内积	nwji
-内切	nwqp
-平分	pkff
-全等	qrdg
 四舍五入	sswr
 同解	tsjp
 通解	tsjp
@@ -35,14 +21,8 @@
 正数	vguu
 整数	vguu
 质数	viuu
-外切	wdqp
 无理数	wluu
-微分	wwff
-相交	xljn
-向量	xlll
-线性	xmxk
 虚数	xuuu
-序数	xuuu
 因式	ybui
 因数	ybuu
 因子	ybzi
@@ -52,7 +32,40 @@
 约数	ytuu
 余数	yuuu
 自然数	zruu
-范数	fjuu
-夹角	jxjn
 即可	jike# 固
 乘法	igfa
+
+// Algebra
+内积	nwji
+向量	xlll
+线性	xmxk
+范数	fjuu
+
+// Analysis
+微分	wwff
+
+// Geometry
+顶点	dkdm
+对角	dvjn
+割线	gexm
+角平分线	jpfx
+截距	jpju
+截面	jpmm
+内切	nwqp
+平分	pkff
+全等	qrdg
+外切	wdqp
+相交	xljn
+夹角	jxjn
+
+// Probability Theory
+加权	jxqr
+
+// Set Theoty
+并集	bkji
+基数	jiuu
+交集	jnji
+序数	xuuu
+
+// Topology
+流形	lpxk
