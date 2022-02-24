@@ -1,5 +1,9 @@
 // Basis
+自变量	zbll
+等式	dgui
+未知	wwvi
 不等式	bdui
+充要条件	iytj
 倍数	bwuu
 定理	dkli
 分母	ffmu
@@ -43,6 +47,8 @@
 
 // Analysis
 微分	wwff
+导数	dcuu
+偏导数	pduu
 
 // Geometry
 顶点	dkdm
@@ -69,3 +75,13 @@
 
 // Topology
 流形	lpxk
+
+// Differential Equations
+常微分	iwff
+偏微分	pwff
+偏微分方程	pwfi
+常微分方程	iwfi
+特解	tejp
+拉普拉斯	lpls
+算子	srzi
+哈密顿	hmdy
