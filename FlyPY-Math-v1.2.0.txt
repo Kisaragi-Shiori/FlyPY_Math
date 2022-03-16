@@ -48,6 +48,7 @@
 二次函数	echu
 大于	dayu
 小于	xnyu
+取值	quvi
 
 // 代数
 内积	nwji
@@ -77,6 +78,20 @@
 
 // 概率统计
 加权	jxqr
+事件	uijm
+二项分布	exfb
+泊松分布	bsfb
+几何分布	jhfb
+超几何分布	ijhb
+负二项分布	fexb
+正态分布	vtfb
+均匀分布	jyfb
+指数分布	vufb
+伽马分布	gmfb
+贝塔分布	btfb
+方差	fhia
+标准差	bvia
+分布列	fblp
 
 // 集合论
 并集	bkji
@@ -110,3 +125,5 @@
 哈密顿	hmdy
 拉普拉斯	lpls
 拉格朗日	lglr
+切比雪夫	qbxf
+伯努利	bnli
