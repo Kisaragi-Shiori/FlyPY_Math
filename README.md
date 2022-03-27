@@ -30,7 +30,7 @@
 
 [小鹤音形](https://www.flypy.com/)
 
-~~恬不知耻地推广 [我的 blog](https://kouyou888.com/)~~
+~~恬不知耻地推广 [我的 blog](https://jk-momiji.com/)~~
 
 # 最后
 
