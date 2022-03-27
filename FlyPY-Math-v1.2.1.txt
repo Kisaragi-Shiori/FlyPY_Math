@@ -49,12 +49,16 @@
 大于	dayu
 小于	xnyu
 取值	quvi
+初始	iuui
+边界	bmjp
 
 // 代数
+二项式	exui
 内积	nwji
 向量	xlll
 线性	xmxk
 范数	fjuu
+正交
 
 // 分析
 微分	wwff
@@ -79,16 +83,19 @@
 // 概率统计
 加权	jxqr
 事件	uijm
+样本点	ybdm
 二项分布	exfb
 泊松分布	bsfb
 几何分布	jhfb
 超几何分布	ijhb
 负二项分布	fexb
+正态	vgtd
 正态分布	vtfb
 均匀分布	jyfb
 指数分布	vufb
 伽马分布	gmfb
 贝塔分布	btfb
+卡方分布	kffb
 方差	fhia
 标准差	bvia
 分布列	fblp
@@ -110,6 +117,7 @@
 常微分方程	iwfi
 特解	tejp
 算子	srzi
+定解	dkjp
 
 // 数值分析
 数值分析	uvfx
@@ -120,6 +128,8 @@
 差商	iauh
 均差	jyia
 差分	iaff
+三次样条插值	scyv
+样条插值	ytiv
 
 // 人名
 哈密顿	hmdy
