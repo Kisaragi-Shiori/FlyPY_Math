@@ -65,6 +65,8 @@
 冲量	isll
 动量	dsll
 代入	ddru
+大写字母	dxzm
+小写字母	xxzm
 
 // 代数
 二项式	exui
@@ -119,6 +121,10 @@
 方差	fhia
 标准差	bvia
 分布列	fblp
+随机变量	sjbl
+概率密度	glmd
+概率密度函数	glmu
+分布函数	fbhu
 
 // 集合论
 并集	bkji

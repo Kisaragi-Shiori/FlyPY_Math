@@ -65,6 +65,8 @@
 冲量	isll
 动量	dsll
 代入	ddru
+大写字母	dxzm
+小写字母	xxzm
 
 // 代数
 二项式	exui
@@ -84,6 +86,7 @@
 偏导数	pduu
 余项	yuxl
 被积函数	bjhu
+级数	jiuu
 
 // 几何
 顶点	dkdm
@@ -118,6 +121,7 @@
 方差	fhia
 标准差	bvia
 分布列	fblp
+随机变量	sjbl
 
 // 集合论
 并集	bkji
