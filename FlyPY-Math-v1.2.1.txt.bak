@@ -79,6 +79,7 @@
 齐次	qici
 线性方程	xxfi
 线性方程组	xxfz
+多维	doww
 
 // 分析
 微分	wwff
@@ -122,6 +123,10 @@
 标准差	bvia
 分布列	fblp
 随机变量	sjbl
+概率密度	glmd
+概率密度函数	glmu
+分布函数	fbhu
+多项分布	dxfb
 
 // 集合论
 并集	bkji
