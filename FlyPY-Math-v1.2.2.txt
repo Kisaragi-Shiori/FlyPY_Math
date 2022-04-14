@@ -67,6 +67,7 @@
 代入	ddru
 大写字母	dxzm
 小写字母	xxzm
+卷积	jrji
 
 // 代数
 二项式	exui
@@ -128,6 +129,7 @@
 分布函数	fbhu
 多项分布	dxfb
 边际	bmji
+数学期望	uxqw
 
 // 集合论
 并集	bkji
