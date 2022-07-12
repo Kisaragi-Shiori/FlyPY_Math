@@ -183,3 +183,9 @@
 伯努利	bnli
 勒让德	lrde
 傅立叶	flye
+
+// 数学建模
+数学建模	uxjm
+建模	jmmo
+聚类	julw
+相关系数	xgxu
