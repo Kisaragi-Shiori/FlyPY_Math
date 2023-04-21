@@ -1,5 +1,32 @@
+// 研究领域
+代数	dduu
+几何	jihe
+偏微分方程	pwfi
+常微分方程	iwfi
+微分方程	wffi
+数值分析	uvfx
+数学建模	uxjm
+实变函数	ubhu
+实分析	ufxi
+复变函数	fbhu
+数论	uuly
+泛函分析	fhfx
+数理金融	uljr
+微分几何	wfjh
+概率论	glly
+数理统计	ultj
+随机过程	sjgi
+时间序列	ujxl
+回归分析	hgfx
+近世代数	judu
+组合数学	zhux
+数理逻辑	ullj
+数理	uuli
+图论	tuly
+
 // 基础
 自变量	zbll
+因变量	ybll
 等式	dgui
 未知	wwvi
 不等式	bdui
@@ -15,8 +42,6 @@
 常量	ihll
 常数	ihuu
 除数	iuuu
-代数	dduu
-几何	jihe
 奇数	jiuu
 阶乘	jpig
 四舍五入	sswr
@@ -68,8 +93,12 @@
 大写字母	dxzm
 小写字母	xxzm
 卷积	jrji
+当且仅当	dqjd
+乘积	igji
+奇点	qidm
 
 // 代数
+行列式	hlui
 二项式	exui
 内积	nwji
 向量	xlll
@@ -103,8 +132,10 @@
 外切	wdqp
 相交	xljn
 夹角	jxjn
+法线	faxm
 
 // 概率统计
+骰子	tzzi
 加权	jxqr
 事件	uijm
 样本点	ybdm
@@ -120,6 +151,7 @@
 伽马分布	gmfb
 贝塔分布	btfb
 卡方分布	kffb
+卡方	kafh
 方差	fhia
 标准差	bvia
 分布列	fblp
@@ -130,6 +162,28 @@
 多项分布	dxfb
 边际	bmji
 数学期望	uxqw
+假设检验	jujy
+点估计	dgji
+统计量	tjll
+区间估计	qjgj
+参数估计	cugj
+原假设	yjue
+备择假设	bzju
+弃真错误	qvcw
+取伪错误	qwcw
+置信	vixb
+置信水平	vxup
+置信区间	vxqj
+拒绝域	jjyu
+显著性水平	xvxp
+列联	lplm
+方差分析	fifx
+残差	cjia
+环比增长率	hbzl
+定基增长率	djzl
+平稳序列	pwxl
+非平稳序列	fpwl
+
 
 // 集合论
 并集	bkji
@@ -141,11 +195,9 @@
 流形	lpxk
 
 // 微分方程
-微分方程	wffi
 常微分	iwff
 偏微分	pwff
-偏微分方程	pwfi
-常微分方程	iwfi
+
 特解	tejp
 算子	srzi
 定解	dkjp
@@ -158,7 +210,6 @@
 定解问题	djwt
 
 // 数值分析
-数值分析	uvfx
 插值	iavi
 插值法	ivfa
 基函数	jhuu
@@ -183,9 +234,24 @@
 伯努利	bnli
 勒让德	lrde
 傅立叶	flye
+勒贝格	lbge
 
 // 数学建模
-数学建模	uxjm
 建模	jmmo
 聚类	julw
 相关系数	xgxu
+
+// 实变函数
+实变	uibm
+可测	kece
+可列	kelp
+可测函数	kchu
+
+// 微分几何
+弧长	huih
+曲率	qulv
+主法向量	vfxl
+密切平面	mqpm
+从法向量	cfxl
+挠率	nclv
+标架	bnjx
