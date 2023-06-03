@@ -96,6 +96,7 @@
 当且仅当	dqjd
 乘积	igji
 奇点	qidm
+正交	vgjx
 
 // 代数
 行列式	hlui
@@ -110,6 +111,11 @@
 线性方程	xxfi
 线性方程组	xxfz
 多维	doww
+子空间	zkjm
+正交坐标	vjzb
+正交基	vjji
+标准正交基	bvvj
+正交分解	vjfj
 
 // 分析
 微分	wwff
@@ -255,3 +261,32 @@
 从法向量	cfxl
 挠率	nclv
 标架	bnjx
+
+// 泛函分析
+泛函	fjhj
+赋范	fufj
+线性同构	xxtg
+拓扑同构	tptg
+赋范空间	ffkj
+算子范数	szfu
+完备	wjbw
+完备性	wbxb
+闭子空间	bzkj
+完备化	wbhx
+等距	dgju
+等距同构	djtg
+等距嵌入	djqr
+巴拿赫	bnhe
+Banach	bnhe
+巴拿赫空间	bnhj
+Banach 空间	bnhj
+触点	iudm
+稠集	izji
+延拓	yjto
+纲定理	gdli
+纲集	ghji
+希尔伯特	xebt
+Hilbert	xebt
+Hilbert	xebt
+希尔伯特空间	xebj
+Hilbert 空间	xebj
