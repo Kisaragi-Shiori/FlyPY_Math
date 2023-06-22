@@ -1,6 +1,6 @@
 // 研究领域
 代数	dduu
-几何	jihe
+几何	jh
 偏微分方程	pwfi
 常微分方程	iwfi
 微分方程	wffi
@@ -139,6 +139,7 @@
 相交	xljn
 夹角	jxjn
 法线	faxm
+双曲	ulqu
 
 // 概率统计
 骰子	tzzi
@@ -233,6 +234,9 @@
 最优一致逼近	zyyj
 
 // 人名
+欧几里德	ojld
+柯西	kexi
+罗尔	loer
 哈密顿	hmdy
 拉普拉斯	lpls
 拉格朗日	lglr
@@ -241,6 +245,9 @@
 勒让德	lrde
 傅立叶	flye
 勒贝格	lbge
+高斯	gcsi
+希尔伯特	xebt
+巴拿赫	bnhe
 
 // 数学建模
 建模	jmmo
@@ -262,6 +269,7 @@
 挠率	nclv
 标架	bnjx
 
+
 // 泛函分析
 泛函	fjhj
 赋范	fufj
@@ -276,17 +284,8 @@
 等距	dgju
 等距同构	djtg
 等距嵌入	djqr
-巴拿赫	bnhe
-Banach	bnhe
-巴拿赫空间	bnhj
-Banach 空间	bnhj
 触点	iudm
 稠集	izji
 延拓	yjto
 纲定理	gdli
 纲集	ghji
-希尔伯特	xebt
-Hilbert	xebt
-Hilbert	xebt
-希尔伯特空间	xebj
-Hilbert 空间	xebj
